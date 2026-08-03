@@ -21,18 +21,16 @@ El repositorio se encuentra organizado de forma modular para cada trabajo práct
 
 ```text
 ML1-2026-TPs/
-│
-├── TP1/                 # Trabajo Práctico N° 1
-│   ├── data/            # Datasets e insumos
-│   ├── notebooks/       # Jupyter Notebooks de análisis y experimentación
-│   ├── src/             # Scripts en Python y funciones auxiliares
-│   └── README.md        # Informe / Guía del TP1
-│
-├── TP2/                 # Trabajo Práctico N° 2
-│   └── ...
-│
+├── README.md
+├── .gitignore
 ├── requirements.txt     # Lista de librerías y dependencias de Python
-└── README.md            # Presentación general del repositorio
+├── TP_1/                 # Trabajo Práctico N° 1
+│   └── notebook_test_tp1.ipynb
+├── TP_2/                 # Trabajo Práctico N° 2
+├── TP_3/                 # Trabajo Práctico N° 3
+├── TP_4/                 # Trabajo Práctico N° 4
+├── TP_5/                 # Trabajo Práctico N° 5
+└── TP_6/                 # Trabajo Práctico N° 6
 ```
 
 ---

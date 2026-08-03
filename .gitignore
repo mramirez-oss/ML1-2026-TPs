@@ -1,3 +1,30 @@
-.ipynb_checkpoints/
-*.pyc
+# Byte-compiled / Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
 venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Explicitly track .gitkeep files
+!**/.gitkeep
